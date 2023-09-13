@@ -1,6 +1,6 @@
 car:
   manufacturer: volvo
   model: a
-  year: 2000
-  attributes: ok
+  year: "2000"
+  attributes: [ok, test]
   reg: ABC123
