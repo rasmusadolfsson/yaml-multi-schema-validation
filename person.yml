@@ -1,3 +1,8 @@
 person:
   name:
     first_name: Stig
+    last_name: Helmer
+  age: 65
+  class: ja
+  start_year: 1950
+  hobbies: [tåg, skidor]
