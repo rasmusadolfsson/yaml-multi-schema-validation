@@ -1,0 +1,13 @@
+computer:
+  cpu:
+    manufacturer: ikea
+    cores: 8
+    frequency: yes
+  memory:
+    manufacturer: ikea
+    size: 1
+    type: ja
+  disk:
+    manufacturer: ikea
+    size: 2
+    type: ja
