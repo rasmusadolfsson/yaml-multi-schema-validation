@@ -2,5 +2,5 @@ schedule:
   year: "2010"
   program: "java"
   lessons:
-    - date: "2022-02-01"
-    - description: ok
+    date: "2022-02-01"
+    description: ok
