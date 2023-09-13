@@ -2,7 +2,7 @@ computer:
   cpu:
     manufacturer: ikea
     cores: 8
-    frequency: yes
+    frequency: 1
   memory:
     manufacturer: ikea
     size: 1
